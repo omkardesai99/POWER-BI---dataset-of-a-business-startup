@@ -1,2 +1,2 @@
 # power-bi
-used powerbi  to clean the data set and made report through visualization 
+Salesinsight - visualization-of-a-dataset-of-a-business-startup-using-power-bi.
